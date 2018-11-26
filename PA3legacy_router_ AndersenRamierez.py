@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Diana Andersen & Jose Ramierez
+# Diana Andersen & Jose Ramirez
 
 from mininet.topo import Topo
 from mininet.net import Mininet
